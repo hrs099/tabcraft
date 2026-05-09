@@ -1,0 +1,358 @@
+{
+  "transcription_version": "v2",
+  "metadata": {
+    "title": "simple_melodic.wav",
+    "duration": 1.5,
+    "bpm": 123,
+    "time_signature": "4/4",
+    "key": {
+      "root": "A",
+      "scale": "Minor",
+      "confidence": 0.6682134347497598
+    },
+    "capo": 5,
+    "tuning": {
+      "selected": null,
+      "candidates": [],
+      "analysis_status": "scaffolded",
+      "reason": "tuning inference not implemented yet"
+    },
+    "techniques_config": {
+      "Kick Drum (Wrist)": true,
+      "Snare (Thumb Slap)": true
+    }
+  },
+  "analysis": {
+    "groove_profile": {
+      "type": "Straight (Tight Grid)",
+      "swingRatio": 1.0,
+      "push_drag_tendency": 0.0
+    },
+    "chord_segments": [],
+    "confidence_summary": {
+      "overall": 0.8053877180982161,
+      "melodic": 0.8053877180982161,
+      "percussive": 0.8053877180982161
+    }
+  },
+  "events": {
+    "notes": [
+      {
+        "pitch": 69,
+        "startTime": 0.011609977324263039,
+        "duration": 0.47600907029478456,
+        "amplitude": 0.6291437149047852,
+        "technique": "pluck",
+        "type": "melodic",
+        "label": null,
+        "pitchBends": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "raw_confidence": 0.0,
+        "normalized_confidence": 0.5,
+        "technique_features": {
+          "energy": 5374.7333984375,
+          "zcr": 0.037153764204545456,
+          "hnr_proxy": 27308.557376242807,
+          "duration_sec": 0.47600907029478456
+        },
+        "stringIdx": 0,
+        "fretIdx": 0,
+        "alternative_positions": [
+          {
+            "stringIdx": 0,
+            "fretIdx": 0,
+            "score": 39.999999984
+          },
+          {
+            "stringIdx": 1,
+            "fretIdx": 5,
+            "score": 19.999999996
+          },
+          {
+            "stringIdx": 2,
+            "fretIdx": 9,
+            "score": 14.28571428367347
+          },
+          {
+            "stringIdx": 3,
+            "fretIdx": 14,
+            "score": 10.52631578836565
+          },
+          {
+            "stringIdx": 4,
+            "fretIdx": 19,
+            "score": 8.333333332638889
+          }
+        ],
+        "capo": 5
+      },
+      {
+        "pitch": 71,
+        "startTime": 0.4876190476190476,
+        "duration": 0.4876190476190476,
+        "amplitude": 0.6352360844612122,
+        "technique": "pluck",
+        "type": "melodic",
+        "label": null,
+        "pitchBends": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "raw_confidence": 0.8240030455034039,
+        "normalized_confidence": 0.9161631542946485,
+        "technique_features": {
+          "energy": 5927.16455078125,
+          "zcr": 0.041585286458333336,
+          "hnr_proxy": 7982.103457204835,
+          "duration_sec": 0.4876190476190476
+        },
+        "stringIdx": 0,
+        "fretIdx": 2,
+        "alternative_positions": [
+          {
+            "stringIdx": 0,
+            "fretIdx": 2,
+            "score": 28.571428563265304
+          },
+          {
+            "stringIdx": 1,
+            "fretIdx": 7,
+            "score": 16.66666666388889
+          },
+          {
+            "stringIdx": 2,
+            "fretIdx": 11,
+            "score": 12.4999999984375
+          },
+          {
+            "stringIdx": 3,
+            "fretIdx": 16,
+            "score": 9.523809522902495
+          }
+        ],
+        "capo": 5
+      },
+      {
+        "pitch": 72,
+        "startTime": 0.9868480725623583,
+        "duration": 0.4992290249433107,
+        "amplitude": 0.6364634037017822,
+        "technique": "pluck",
+        "type": "melodic",
+        "label": null,
+        "pitchBends": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "raw_confidence": 0.99,
+        "normalized_confidence": 1.0,
+        "technique_features": {
+          "energy": 6057.521484375,
+          "zcr": 0.044820149739583336,
+          "hnr_proxy": 4593.191522327641,
+          "duration_sec": 0.4992290249433107
+        },
+        "stringIdx": 0,
+        "fretIdx": 3,
+        "alternative_positions": [
+          {
+            "stringIdx": 0,
+            "fretIdx": 3,
+            "score": 24.99999999375
+          },
+          {
+            "stringIdx": 1,
+            "fretIdx": 8,
+            "score": 15.384615382248521
+          },
+          {
+            "stringIdx": 2,
+            "fretIdx": 12,
+            "score": 11.764705880968858
+          },
+          {
+            "stringIdx": 3,
+            "fretIdx": 17,
+            "score": 9.090909090082645
+          }
+        ],
+        "capo": 5
+      }
+    ],
+    "techniques": [],
+    "percussion": []
+  },
+  "tab": {
+    "columns": [],
+    "layers": {
+      "bass": [],
+      "harmony": [],
+      "melody": [],
+      "percussion": []
+    }
+  },
+  "_debug_artifact_path": "/tmp/astra_runs\\94aeefc7-45b2-45ae-8a29-d08adb941621",
+  "_debug_stats": {
+    "preprocess": {
+      "original_sr": 22050,
+      "original_channels": 1,
+      "duration_sec": 1.5,
+      "peak_amplitude_before": 1.0,
+      "rms_amplitude_after": 0.6998026371002197,
+      "cached_path": "/tmp/astra_runs\\94aeefc7-45b2-45ae-8a29-d08adb941621\\preprocessed.wav"
+    },
+    "separation": {
+      "energy_harmonic": 16272.1787109375,
+      "energy_percussive": 23.50844383239746,
+      "percussive_ratio": 0.0014447016745578508,
+      "heuristic_layer_active": true
+    },
+    "pitch": {
+      "raw_event_count": 3,
+      "cleaned_event_count": 3
+    },
+    "technique": {
+      "event_count": 3
+    },
+    "mapper_v2": {
+      "melodic_notes": 3,
+      "total_frames_decoded": 3
+    },
+    "analysis": {
+      "key": {
+        "root": "A",
+        "scale": "Minor",
+        "confidence": 0.6682134347497598
+      },
+      "bpm": 123,
+      "tuning_candidates": {
+        "selected": null,
+        "candidates": [],
+        "analysis_status": "scaffolded",
+        "reason": "tuning inference not implemented yet"
+      }
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "transcription_version": "v2",
+  "metadata": {
+    "title": "altered_tuning.wav",
+    "duration": 0.5,
+    "bpm": 40,
+    "time_signature": "4/4",
+    "key": {
+      "root": "D",
+      "scale": "Minor",
+      "confidence": 0.6399569024444625
+    },
+    "capo": 0,
+    "tuning": {
+      "selected": null,
+      "candidates": [],
+      "analysis_status": "scaffolded",
+      "reason": "tuning inference not implemented yet"
+    },
+    "techniques_config": {
+      "Kick Drum (Wrist)": true,
+      "Snare (Thumb Slap)": true
+    }
+  },
+  "analysis": {
+    "groove_profile": {
+      "type": "Heavy Swing",
+      "swingRatio": 1.5,
+      "push_drag_tendency": 0.0
+    },
+    "chord_segments": [],
+    "confidence_summary": {
+      "overall": 0.85,
+      "melodic": 0.85,
+      "percussive": 0.85
+    }
+  },
+  "events": {
+    "notes": [
+      {
+        "pitch": 38,
+        "startTime": 0.09287981859410431,
+        "duration": 0.313469387755102,
+        "amplitude": 0.5350290536880493,
+        "technique": "pluck",
+        "type": "melodic",
+        "label": null,
+        "pitchBends": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "raw_confidence": 0.5350290536880493,
+        "normalized_confidence": 0.85,
+        "technique_features": {
+          "energy": 4028.7294921875,
+          "zcr": 0.00616455078125,
+          "hnr_proxy": 5606.489944515925,
+          "duration_sec": 0.313469387755102
+        },
+        "stringIdx": 5,
+        "fretIdx": 0,
+        "alternative_positions": [
+          {
+            "stringIdx": 5,
+            "fretIdx": 0,
+            "score": -100.0000001
+          }
+        ],
+        "capo": 0
+      }
+    ],
+    "techniques": [],
+    "percussion": []
+  },
+  "tab": {
+    "columns": [],
+    "layers": {
+      "bass": [],
+      "harmony": [],
+      "melody": [],
+      "percussion": []
+    }
+  },
+  "_debug_artifact_path": "/tmp/astra_runs\\bde9d7d8-1d1f-4367-8ff1-b3dd1633e695",
+  "_debug_stats": {
+    "preprocess": {
+      "original_sr": 22050,
+      "original_channels": 1,
+      "duration_sec": 0.5,
+      "peak_amplitude_before": 1.0,
+      "rms_amplitude_after": 0.6846814751625061,
+      "cached_path": "/tmp/astra_runs\\bde9d7d8-1d1f-4367-8ff1-b3dd1633e695\\preprocessed.wav"
+    },
+    "separation": {
+      "energy_harmonic": 5331.9306640625,
+      "energy_percussive": 17.212587356567383,
+      "percussive_ratio": 0.0032282091499384867,
+      "heuristic_layer_active": true
+    },
+    "pitch": {
+      "raw_event_count": 1,
+      "cleaned_event_count": 1
+    },
+    "technique": {
+      "event_count": 1
+    },
+    "mapper_v2": {
+      "melodic_notes": 1,
+      "total_frames_decoded": 1
+    },
+    "analysis": {
+      "key": {
+        "root": "D",
+        "scale": "Minor",
+        "confidence": 0.6399569024444625
+      },
+      "groove": {
+        "type": "Heavy Swing",
+        "swingRatio": 1.5
+      },
+      "bpm": 40,
+      "tuning_candidates": {
+        "selected": null,
+        "candidates": [],
+        "analysis_status": "scaffolded",
+        "reason": "tuning inference not implemented yet"
+      }
+    }
+  }
+}
