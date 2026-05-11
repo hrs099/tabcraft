@@ -3,9 +3,9 @@ import type { Note, Bar, PercussionEvent } from '../mocks/demoData';
 import { mockBars, mockNotes, mockPercussion } from '../mocks/demoData';
 
 export function useTranscription() {
-  const [bars, setBars] = useState<Bar[]>(mockBars);
+  const [bars] = useState<Bar[]>(mockBars);
   const [notes, setNotes] = useState<Note[]>(mockNotes);
-  const [percussions, setPercussions] = useState<PercussionEvent[]>(mockPercussion);
+  const [percussions] = useState<PercussionEvent[]>(mockPercussion);
   
   const [selectedNoteId, setSelectedNoteId] = useState<string | null>(null);
   const [filterLowConfidence, setFilterLowConfidence] = useState(false);

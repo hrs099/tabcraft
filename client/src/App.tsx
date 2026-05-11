@@ -38,7 +38,7 @@ function CorrectionSidebar({ transcription }: { transcription: ReturnType<typeof
 
       <div>
         <h3 style={{ fontSize: '0.9rem', color: 'var(--text-muted)', marginBottom: '8px' }}>Alternate Suggestions</h3>
-        {suggestions.map((s, idx) => (
+        {suggestions.map((s) => (
           <button 
             key={s.id} 
             className="glass-button" 

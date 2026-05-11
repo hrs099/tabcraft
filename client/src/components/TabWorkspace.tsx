@@ -1,4 +1,5 @@
-import { useRef, MouseEvent, useEffect, useState } from 'react';
+import { useRef, useEffect, useState } from 'react';
+import type { MouseEvent } from 'react';
 import type { PlaybackContextData } from '../hooks/usePlayback';
 import type { useTranscription } from '../hooks/useTranscription';
 
